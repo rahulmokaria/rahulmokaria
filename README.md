@@ -3,7 +3,6 @@
 <br>
 
 ## I am an enthusiastic and hardworking student :slightly_smiling_face:
-
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=rahulmokaria&show_icons=true&theme=dracula&count_private=true&card_width=300"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmokaria&theme=cobalt&langs_count=8&layout=compact&card_width=400"/>
