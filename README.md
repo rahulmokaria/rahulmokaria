@@ -1,5 +1,10 @@
 
-<h1>Hi,I am Rahul Mokaria</h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey there, I'm [Rahul Mokaria!](https://www.linkedin.com/in/rahulmokaria/) <img height="45px" src="https://github.com/rahulmokaria/rahulmokaria/blob/main/assets/waving_hand.gif">
+<br>
+
+## I am an enthusiastic and hardworking student :slightly_smiling_face:
+
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=rahulmokaria&show_icons=true&theme=dracula&count_private=true&card_width=300"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmokaria&theme=cobalt&langs_count=8&layout=compact&card_width=400"/>
 <img src="http://github-readme-streak-stats.herokuapp.com/?user=rahulmokaria&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
